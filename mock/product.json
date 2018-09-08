@@ -1,0 +1,28 @@
+{
+   "result" :[
+        {
+            "productNo" : "32423423ssq",
+            "productName" : "关东煮",
+            "count" : 6,
+            "salePrice" : 3.50   
+        },
+        {
+            "productNo" : "324as33344sq",
+            "productName" : "鱼香肉丝",
+            "count" : 4,
+            "salePrice" : 3.00  
+        },
+        {
+            "productNo" : "33442345sdsq",
+            "productName" : "麻辣烫",
+            "count" : 8,
+            "salePrice" : 5.80 
+        },
+        {
+            "productNo" : "32s667787dsq",
+            "productName" : "酸辣土豆丝",
+            "count" : 7,
+            "salePrice" : 6.00   
+        }
+    ]
+}
