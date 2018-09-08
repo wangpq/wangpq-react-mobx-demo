@@ -4,6 +4,9 @@
 # 如何运行
 
 一、下载项目到本地
+```bash
+git clone https://github.com/wangpq/wangpq-react-mobx-demo.git
+```
 
 二、cd 进入项目根目录, 下载依赖
 ```bash
